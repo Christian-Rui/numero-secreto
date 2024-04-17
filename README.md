@@ -1,6 +1,4 @@
-![Descricao da sua imagem](https://raw.githubusercontent.com/andreocunha/upload_files_test/main/exemplo-thumb.png)
-
-![](https://img.shields.io/github/license/alura-cursos/android-com-kotlin-personalizando-ui)
+![Descricao da sua imagem](https://repository-images.githubusercontent.com/768217367/3f5266ef-6e63-478a-a18f-f9f4ba280759)
 
 # Jogo do Número Secreto
 
